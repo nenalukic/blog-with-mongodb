@@ -11,7 +11,7 @@ To install MongoDB on Mac type:
 ```
 brew install mongodb
 ```
-To install MongoDB on Windows - follow instructions n this link:
+To install MongoDB on Windows - follow instructions on this link:
 [Install MongoDB on Windows](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/)
 
 <br/>
