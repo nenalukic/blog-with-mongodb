@@ -54,3 +54,6 @@ Blog main page:
 Create new blog entry:
 ![image](images/mongo-blog-2.png?raw=true)
 
+## Acknowledgment
+
+I created this project while studying [Udemy online bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
